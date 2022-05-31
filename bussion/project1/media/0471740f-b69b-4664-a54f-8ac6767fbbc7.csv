@@ -1,0 +1,4 @@
+name,currency_name,amount,Date,converted_currency,converted_amount
+ABC Limited,GBP,1000.0,2021-01-01 00:00:00,INR,95937.94
+ABC Limited,GBP,2000.0,2020-05-30 00:00:00,INR,191875.89
+DEF Limited,GBP,250.0,2021-06-15 00:00:00,INR,23984.49
